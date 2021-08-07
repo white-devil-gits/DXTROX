@@ -17,7 +17,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 ```
 
 <div align="center">
-  <img border-radius: 15px src="DXTROX MODS 20210804_162822.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/88432886?v=4" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="DXTROX" src="https://img.shields.io/badge/DXTROX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
