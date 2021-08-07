@@ -5,46 +5,28 @@
 
 ## 📢Introduce myself
 
-- 🙂 I'm Vishnu Prasad
+- 🙂 I'm Amal
 - 🚩 I'm a beginner in this field
-- 📍 From Cheravally,Kayamkulam,Kerala,🇮🇳
-- 🎮 BGMI player (ID:5444486441)
-- 🏫 High School at Sree Narayana Central School,Kayamkulam
-- 🏫 Now I'm studying Diploma in Mechanical Engineering at Carmel Polytechnic College,Punnapra
+- 📍 From palakkad,Kerala,🇮🇳
+- 🏫 Student
+
+
 
 ```
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
 ```
 
-### Disclaimer ❗
-```
-  
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
-
 <div align="center">
-  <img border-radius: 15px src="Meenakshi[2].jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="DXTROX MODS 20210804_162822.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Meenakshi" src="https://img.shields.io/badge/Meenakshi-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DXTROX" src="https://img.shields.io/badge/DXTROX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil"><img title="Author" src="https://img.shields.io/badge/Author-vishnu-memanakizhakathil/Meenakshi?color=pink&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/amal-dx"><img title="Author" src="https://img.shields.io/badge/Author-amal-dx/DXTROX?color=pink&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/amal-dx">Amal</a> to make it public
     <br>
        | © |
         Reserved |
@@ -54,31 +36,31 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
-    <img src="https://img.shields.io/github/repo-size/vishnu-memanakizhakathil/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/amal-dx/DXTROX">
+    <img src="https://img.shields.io/github/repo-size/amal-dx/DXTROX?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-memanakizhakathil?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-memanakizhakathil/Meenakshi?color=pink&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-memanakizhakathil/Meenakshi?label=Watchers&color=pink&style=flat-square"></a>
+<a href="https://github.com/amal-dx/followers"><img title="Followers" src="https://img.shields.io/github/followers/amal-dx?color=pink&style=flat-square"></a>
+<a href="https://github.com/amal-dx/DXTROX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/amal-dx/DXTROX?color=pink&style=flat-square"></a>
+<a href="https://github.com/amal-dx/DXTROX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/amal-dx/DXTROX?color=pink&style=flat-square"></a>
+<a href="https://github.com/amal-dx/DXTROX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/amal-dx/DXTROX?label=Watchers&color=pink&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/ig.zero.x2k_linda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/916235989299"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://https://www.facebook.com/danger666host"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/vishnuprasad62"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://github.com/vishnu-memanakizhakathil"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://instagram.com/dxtrox_mods?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/917736308760"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href=""><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://t.me/Dxtroxmods"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/amal-dx"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   
 </p>
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amal-dx&show_icons=true&theme=nightowl" alt="amal-dx" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amal-dx&theme=nightowl" alt="amal-dx" /></p>
 </details> </div>
 
 
@@ -86,10 +68,10 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">Vishnu 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BXvcKDRzxvM1aOHhBX3NLq)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-memanakizhakathil/Meenakshi)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amal-dx&repo=DXTROX&theme=nightowl)](https://github.com/amal-dx/DXTROX)
   </div>
     
 ## Setup
@@ -99,7 +81,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-memanakizhakathil/Meenakshi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/DXTROX)
      </div>
 <br>
 <br >
@@ -114,8 +96,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/amal-dx/DXTROX
+$ cd DXTROX
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -124,24 +106,15 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
-$ cd Meenakshi
+$ git clone https://github.com/amal-dx/DXTROX
+$ cd DXTROX
 $ chmod +x *
 $ npm i
 $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
 ```
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
 ### ⚠️ Warning! 
 ```
@@ -164,9 +137,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil.png?size=100)](https://github.com/vishnu-memanakizhakathil) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![amal-dx](https://github.com/amal-dx.png?size=100)](https://github.com/amal-dx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[amal-dx](https://github.com/amal-dx)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Author, Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
  
