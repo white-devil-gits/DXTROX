@@ -1,7 +1,7 @@
 {
-    "name": "Meenakshi",
-    "description": "Meenakshi - Whatsapp Bot",
-    "logo": "https://avatars.githubusercontent.com/u/87913417?v=4",
+    "name": "DXTROX",
+    "description": "DXTROX - Whatsapp Bot",
+    "logo": "https://avatars.githubusercontent.com/u/88432886?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/vishnu-memanakizhakathil/Meenakshi",
     "website":   "https://t.me/phaticusthiccy",
@@ -116,7 +116,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Meenu !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
