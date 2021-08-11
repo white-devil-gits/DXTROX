@@ -1,6 +1,5 @@
 FROM fusuf/whatsasena:latest
-
-RUN git clone https://github.com/amal-dx/DXTROX /root/WhatsAsenaDuplicated
+https://github.com/white-devil-gits/VEDIKETTU-JAANU-2.0 /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
